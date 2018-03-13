@@ -15,6 +15,13 @@
   
   <dependencies>
   
+  	<!-- Link Backend Project -->
+  	<dependency>
+	  	<groupId>local.dmi</groupId>
+	    <artifactId>shippingbackend</artifactId>
+	    <version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	
     <!-- J2EE -->
 	<dependency>
 	    <groupId>javax</groupId>
